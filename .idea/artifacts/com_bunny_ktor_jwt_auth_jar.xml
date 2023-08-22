@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="com.bunny.ktor-jwt-auth:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/com_bunny_ktor_jwt_auth_jar</output-path>
+    <root id="archive" name="com.bunny.ktor-jwt-auth.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
